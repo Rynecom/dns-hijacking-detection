@@ -1,0 +1,2 @@
+2025-05-30 14:10:01 - example.com resolved to ['93.184.216.34'] ✅ Match
+2025-05-30 14:20:01 - example.com resolved to ['10.0.0.5'] ❌ DNS mismatch detected! Expected: 93.184.216.34
